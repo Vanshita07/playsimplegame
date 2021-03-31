@@ -1,0 +1,90 @@
+#front-image{
+    background-image: url("HayImg/bg_hero_hayday.jpg");
+    height: 600px;
+    color: #fff;
+    padding-top: 0px;
+    margin-top: 25px;
+    max-width: 100%;
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+}
+.row{
+    padding-top: 50px;
+}
+.thumbnail{
+    display: block;
+    max-width: 100%;
+    height: auto;
+
+}
+.container{
+    width:90%;
+    margin:auto;
+    overflow:hidden;
+}
+.animation{
+    padding: 70px 44px 56px;
+}
+.divcontent{
+    padding: 0px 0px 18.7px;
+}
+.background-image{
+    background-image: url("https://cdn.supercell.com/supercell.com/210330120958/all/themes/supercell/img/18/games_hayday_community_bg.jpg");
+    height: 600px;
+    padding-top: 50px;
+    color: #fff;
+    margin-top: 25px;
+    max-width: 100%;
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+}
+.cont{
+    width:90%;
+    margin:auto;
+    overflow:hidden;
+}
+.social{
+    height: 32px;
+    width: 32px;
+    padding-left: 10px;
+    font: 14px;
+}
+.embed{
+    padding: 10.5px 50px 0px;
+}
+.video{
+        width:90%;
+        margin:auto;
+        overflow:hidden;
+}
+footer{
+    background-color: #000;
+    color: #fff;
+    font-size: 14px;
+}
+.youtube{
+    height: 30px;
+    width: 40px;
+}
+.social{
+    height: 30px;
+    width: 40px;
+    padding-left: 10px;
+}
+.download{
+    height: 50px;
+    width: 125px;
+    padding-right: 5px;
+}
+.links{
+    text-decoration: none;
+    color: #fff;
+}
+.space{
+    padding-top: 20px;
+    padding-left: 44px; 
+    padding-right: 44px;
+}
+.logo{
+    font: 14px;
+}

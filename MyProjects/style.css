@@ -1,0 +1,146 @@
+#background-image{
+    background-image: url("Images/bg_hero_frontpage.jpg");
+    height: 600px;
+    padding-top: 50px;
+    color: #fff;
+    margin-top: 25px;
+    max-width: 100%;
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+}
+.hide {
+    display: none;
+    background-color: black;
+  }
+  
+  .myDIV:hover + .hide {
+    background-color: black;
+    display: block;
+    color: red;
+  }
+#content{
+    padding-top: 150px;
+    color: black;
+    width:78%;
+}
+.Latest{
+    background-color: #2d85f3;
+    color: white;
+}
+.bar{
+    display: block;
+    position: absolute;
+    outline: none;
+    top: 0px;
+    right: 0px;
+    width: 100%;
+    background: #000;
+    height: 66px;
+    cursor: pointer;
+}
+
+.container{
+    width:90%;
+    margin:auto;
+    overflow:hidden;
+}
+.itemsleft{
+    width:30%;
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    float:left;
+    margin-left:1%;
+}
+.itemsright{
+    width:30%;
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    float: right;
+    margin-left:1%;
+}
+.thumbnail{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+
+}
+.caption{
+    color:#000;
+    padding:0px 10px 10px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+
+}
+.background-image1{
+    background-image: url("https://cdn.supercell.com/supercell.com/210330120958/all/themes/supercell/img/18/bg_wmg_brawlstars.jpg");
+    height: 600px;
+    padding-top: 50px;
+    color: #fff;
+    margin-top: 25px;
+    max-width: 100%;
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+}
+.logo{
+    height:45px;
+    width: 54px;
+}
+.content{
+    font-size: 20px;
+    padding-top: 100px;
+    padding-left: 200px;
+    padding-bottom: 50px;
+}
+.background-image2{
+    background-image: url("https://cdn.supercell.com/supercell.com/210330120958/all/themes/supercell/img/18/bg_fp_nextstep.jpg");
+    height: 600px;
+    max-width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.cont{
+    font-size: 20px;
+    padding-top: 170px;
+    padding-right: 200px;
+    padding-bottom: 50px;
+}
+footer{
+    background-color: #000;
+    color: #fff;
+    font-size: 14px;
+}
+.youtube{
+    height: 30px;
+    width: 40px;
+}
+.social{
+    height: 30px;
+    width: 40px;
+    padding-left: 10px;
+}
+.download{
+    height: 50px;
+    width: 125px;
+    padding-right: 5px;
+}
+.links{
+    text-decoration: none;
+    color: #fff;
+}
+.space{
+    padding-top: 20px;
+    padding-left: 44px; 
+    padding-right: 44px;
+}
+.logo{
+    font: 24px;
+}
